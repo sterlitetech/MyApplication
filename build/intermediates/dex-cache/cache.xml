@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\6d30200058d2aa81c2bb41d761fdbcbc890f1f08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_eeaf7ed97e84715827276801440d16b9893e9d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\a4116e81e03d6bb03b47536b331712a4a2fa3daf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_286afacf6a56f3b22f23a36f847008913e7433d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\95208b29042792bceda3a786c1ff954470027769\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_de77aeefb5d0d35d8f74e26653b61fe108eee02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\75a1df1ce9f8ca46861aa66c0e1d3b96a833daec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_d7262e72a3f0bc992f01c83430c1e378367eea01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\8b675057df05b7c9b8999bfac7cfeb726bcefe2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_7ee5d10433846d43033743104931a29e81fa140b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\f632452b8d4cc45d8eaa895d6071f3e249864bb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_dc518d4c9bbaf8c4f90e70ca4777d9f447857d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\241a85ef30a2ef385c06cd4f7f42ad9424827905\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_812594a514aca45520b575c0f70d385e14c8a7d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\31b43cd7450ca8f4aba3f92326b63b571103a137\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_725e43010af0026c80d6a35aae65590537269f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Softwares\Development\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_c320d08a90fd85b2bc11b8e08632b79b83f5150b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\a771da9c822ef85731a17fefee1b3bb076104a79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_af9a66339c321ed46844758b889b47bac4201786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.4.0\82552712133e094bbb565289fb2bc2d2952ba551\glide-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82552712133e094bbb565289fb2bc2d2952ba551">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\glide-3.4.0_6d5de344a9635247da65e34d2e9646b2d298afc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\0eab71d28d27b1007fb2a2e2fbcc26ad60b2c900\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e66814212e2e048ba181768510886d166a2673a">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_acb63cb2e3b40ed14b20981659259ef63a44911f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\harshesh.soni\.android\build-cache\13ae967dd137015e9fac77693a5ecf6707a7eb2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\AndroidProductApp\MyApplication\app\build\intermediates\pre-dexed\debug\classes_9006699638957f7cc2d54f12b76749d18cbce37c.jar" />
+    </item>
+
+</items>
